@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @akshayashree31
+- 👀 I’m interested in Web Development (Frontend and Backend)
+- 🌱 I’m currently learning Javascript
+- Developing my skills in Python
