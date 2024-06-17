@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Javascript
 - Developing my skills in Python
 - Connect with me in LinkedIn : https://www.linkedin.com/in/akshaya-shree-8481a4220
-https://phpgurukul.com/gym-management-system-using-php-and-mysql/
+
